@@ -1,0 +1,18 @@
+[
+  {
+    "id": "foyer",
+    "name": "Foyer",
+    "description": "You stand in the dusty foyer. Exits: north.",
+    "exits": {"north": "hall"},
+    "items": ["rusty_key"],
+    "features": []
+  },
+  {
+    "id": "hall",
+    "name": "Grand Hall",
+    "description": "You enter the grand hall adorned with cobwebs. Exits: south.",
+    "exits": {"south": "foyer"},
+    "items": [],
+    "features": []
+  }
+]

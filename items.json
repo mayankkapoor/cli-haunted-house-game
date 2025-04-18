@@ -1,0 +1,10 @@
+[
+  {
+    "id": "rusty_key",
+    "name": "Rusty Key",
+    "description": "An old, rusty key. It might open something.",
+    "portable": true,
+    "usable_in": [],
+    "on_use": {}
+  }
+]

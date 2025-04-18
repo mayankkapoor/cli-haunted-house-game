@@ -1,0 +1,10 @@
+[
+  {
+    "id": "ghost",
+    "name": "Restless Ghost",
+    "health": 50,
+    "attack": 10,
+    "encounter_chance": 0.1,
+    "drops": []
+  }
+]
